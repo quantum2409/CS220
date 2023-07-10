@@ -2,7 +2,7 @@
 
 ## Overview
 
-This assignment required us to build a single-cycle MIPS processor. The processor's word size is 32 bits.<br/><br/>
+This assignment required us to build a single-cycle MIPS processor. The processor's word size is 32 bits.<br/>
 
 We have followed the following diagram extensively to design the processor.
 
