@@ -18,7 +18,7 @@ iverilog -o out.vvp tb.v
 gtkwave out.vcd
 ```
 
-Note the iverilog and gtkwave needs to be set-up as a pre-requisite.
+Note the iverilog and gtkwave need to be set-up as a pre-requisite.
 
 ## Goals
 
@@ -29,6 +29,6 @@ A single-cycle MIPS processor (CSE BUBBLE) with the following features:
     <li>Instruction Memory</li>
     <li>Data Memory</li>
   </ul></li>
-  <li>A register file: RISC_BUBBLE- with 32 registers, where certain registers have the same role as in MIPS-32-ISA</li>
+  <li>A register file (RISC_BUBBLE): with 32 registers, where certain registers have the same role as in MIPS-32-ISA</li>
   <li>Design op-code formats for the processor to decide data paths</li>
 </ol>
