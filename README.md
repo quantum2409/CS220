@@ -65,8 +65,7 @@ The data memory is first initiated with the input array for BUBBLE SORT in the f
 size of array=9, size of array-1 = 8, 9 values stored in the array at zeroth index and first index of the data memory.<br/>
 The data memory is filled with the following input array:<br/>
 9, -56, -9, 17, 100, 2938, -1987, 2083, 1<br/><br/>
-Instruction number 32 and onwards is used to load a register with the values in the data memory just to show:
+Instruction number 32 and onwards is used to load a register with the values in the data memory just to show that the data memory is now written with the sorted array.:
 
 ![gtkwave](https://github.com/quantum2409/CS220/assets/98262532/766f34d2-8121-4818-87ad-97d5bb7848c1)
 
-that the data memory is now written with the sorted array.
